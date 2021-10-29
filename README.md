@@ -1,4 +1,4 @@
-# Kaggle-Titanic
+# titanic-survival-prediction
 ## 程式簡介
 ### 簡述
 * 使用「Perceptron - 單層感知機」實作 [Kaggle](https://www.kaggle.com/) - [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic) 比賽
